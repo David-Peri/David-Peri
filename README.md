@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-Peri
 - 👀 I’m interested in Mathematics, Data Science, Machine Learning and Game Development!
-- 🌱 I’m currently learning Python, C++, Haskell, Git and Maths.
+- 🌱 I’m currently learning Python, SQL, R and Maths.
 - 💞️ I’m looking to collaborate on whatever I can to improve and learn right now.
 
 <!---
